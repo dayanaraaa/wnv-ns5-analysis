@@ -36,7 +36,7 @@ BLAST, Jalview, PyMOL, IUPRED, PockDrug, Python
 - `figures/` → pipeline and structural visualisations
 - `analysis/` → scripts and computational workflow
 
-## Notes
+## Acknowledgments & Notes
 This project was completed as part of a Course-based Undergraduate Research Internship Experience (CURIE). Research reported was supported by the National Institutes of Health under award number R25AI170382. The content is solely the responsibility of the authors and does not necessarily represent the views of the NIH.
 
 ## Reproducibility Statement
