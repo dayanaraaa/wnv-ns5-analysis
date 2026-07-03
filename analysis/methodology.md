@@ -41,3 +41,15 @@ Two pockets (Pocket 0 and Pocket 4) emerged as the most promising antiviral targ
 - Low intrinsic disorder
 - Favorable structural accessibility
 - Large residue compositions suitable for molecular binding
+
+
+### WNV_database.xlsx
+An integrated residue-level dataset assembled by the author using course methodologies and instructions.
+
+The spreadsheet combines:
+- Residue numbering and amino acid identities
+- AlphaFold confidence (pLDDT) scores
+- Secondary structure assignments
+- IUPred disorder predictions
+- ANCHOR scores
+- Candidate pocket annotations
