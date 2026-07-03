@@ -11,3 +11,6 @@ The alignment includes representative flavivirus NS5 sequences and served as the
 Files:
 - `NS5_AlignedMSA.png`: visualization of the final alignment.
 - `NS5_msa_renamed.fasta`: aligned sequences used in subsequent analyses.
+
+## Notes
+This work was completed as part of an undergraduate research course and is not a peer-reviewed publication.
