@@ -39,4 +39,10 @@ BLAST, Jalview, PyMOL, IUPRED, PockDrug, Python
 ## Notes
 This project was completed as part of a Course-based Undergraduate Research Internship Experience (CURIE). Research reported was supported by the National Institutes of Health under award number R25AI170382. The content is solely the responsibility of the authors and does not necessarily represent the views of the NIH.
 
-Analysis scripts and computational pipelines were developed as part of an undergraduate research program and are not included in this repository. This repository serves as an archive of the research outputs, figures, manuscript, and supporting materials produced by the author.
+## Reproducibility Statement
+
+This repository serves as an archive of the research products generated during participation in an undergraduate research program at Florida International University.
+
+The computational workflows, scripts, and notebooks used to generate some analyses were developed and maintained by the instructional program and are therefore not included in this repository.
+
+All figures, manuscript drafts, presentation materials, and author-generated outputs included here are shared for educational and scholarly purposes.
