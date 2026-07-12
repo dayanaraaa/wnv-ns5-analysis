@@ -1,6 +1,3 @@
-# wnv-ns5-analysis
-Drug target analysis of West Nile Virus NS5 protein using bioinformatics and structural methods.
-
 # West Nile Virus NS5 Drug Target Analysis
 
 This project investigates the West Nile Virus NS5 protein to identify and prioritise potential antiviral binding sites using a multi-step bioinformatics pipeline.
@@ -23,12 +20,7 @@ The following pipeline was used:
 
 ## Key Results
 
-- Reduced candidate binding pockets from multiple initial sites to 2 high-priority druggable regions
-- Prioritisation based on evolutionary conservation, structural accessibility, and disorder profiles
-
-## Tools Used
-
-BLAST, Jalview, PyMOL, IUPRED, PockDrug, Python
+Screening narrowed the candidate binding pockets on WNV NS5 from 11 down to 2 high-priority sites, with PockDrug druggability scores ranging from 0.89 to 0.96 across candidates. Prioritisation combined evolutionary conservation, structural accessibility, and disorder profiling to identify the strongest antiviral targets.
 
 ## Files
 
